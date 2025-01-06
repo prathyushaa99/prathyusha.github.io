@@ -1,11 +1,10 @@
-# prathyusha.github.io
+# JAVA FULL STACK DEVELOPER
 
 
 
-OBJECTIVE
-To leverage my 5+ years of experience as a Java Full Stack Developer to contribute my technical expertise, problem-solving skills, and passion for creating innovative software solutions to a dynamic and forward-thinking organization.
 
-PROFESSIONAL SUMMARY
+
+## PROFESSIONAL SUMMARY
 •	Extensive experience in developing web applications using Java, J2EE, JSP, Servlets, EJB, JDBC, Struts, Spring MVC, Spring Boot, Hibernate, JMS, JSF and XML. 
 •	Experience in Producing and consuming Web Services Technologies like Restful (JAX-RS), SOAP (JAX-WS), JAX-RPC and JAXR (Java API for XML Registries).
 •	Experience in the development of service-oriented architecture applications, good understanding of Object-Oriented Design and Design Patterns.
