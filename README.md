@@ -5,37 +5,38 @@
 
 
 ## PROFESSIONAL SUMMARY
-•	Extensive experience in developing web applications using Java, J2EE, JSP, Servlets, EJB, JDBC, Struts, Spring MVC, Spring Boot, Hibernate, JMS, JSF and XML. 
-•	Experience in Producing and consuming Web Services Technologies like Restful (JAX-RS), SOAP (JAX-WS), JAX-RPC and JAXR (Java API for XML Registries).
-•	Experience in the development of service-oriented architecture applications, good understanding of Object-Oriented Design and Design Patterns.
-•	Experience in writing with no schema database Couch DB and have knowledge on MongoDB.
-•	Developed User Interface using HTML5, CSS3, JavaScript, Dojo, AngularJS, ReactJS, jQuery, and Bootstrap for providing user interface and communication between the client and server.
-•	Extensive work experience in all phases of Software Development Life Cycle (SDLC) including Requirement Analysis, Design, Coding, Testing and Implementation in Agile (Scrum), TDD Environment.
-•	Thorough knowledge in using UML, XML parsers (SAX, DOM), SOAP, HTML and DHTML.
-•	Experience in JAVA/J2EE Design Patterns like Singleton, Factory, Abstract Factory, DAO, Business Delegate, and Session Façade.
-•	Experience with Performance Tuning for Oracle RDBMS using Explain Plan and HINTS. Extensive experience in data processing and interfacing skills using Oracle (SQL, PL/SQL, Stored procedures)
-•	Experience with Version Control tools like GIT, GitHub, CVS, SVN and build tools like MAVEN and Gradle with Integrated Development Environments like Eclipse and IntelliJ and STS.
-•	Extensive experience in developing Selenium and JUnit Test Scripts using Java in Eclipse IDE.
-•	Experience in Continuous Integration tools such Jenkins and Bamboo. Worked on Microservices for Continuous Delivery environment using Docker and Jenkins.
-•	Experience developing and integrating with microservices, webapps, RESTful API's
-•	Proficient in using Amazon Web Services (AWS). Extensive experience in focusing on services like EC2, AWS Lambda, VPC, Cloud Watch, Cloud Front, IAM, S3, Amazon RDS, Elastic Cache, SNS, SQS.
-•	Good understanding of Redux concepts such as State Store, Action Creator, Reducer and Container.
-•	Proficient in using Kubernetes for Horizontal scaling and load balancing of applications.
+- Extensive experience in developing web applications using Java, J2EE, JSP, Servlets, EJB, JDBC, Struts, Spring MVC, Spring Boot, Hibernate, JMS, JSF and XML. 
+-	Experience in Producing and consuming Web Services Technologies like Restful (JAX-RS), SOAP (JAX-WS), JAX-RPC and JAXR (Java API for XML Registries).
+-	Experience in the development of service-oriented architecture applications, good understanding of Object-Oriented Design and Design Patterns.
+-	Experience in writing with no schema database Couch DB and have knowledge on MongoDB.
+-	Developed User Interface using HTML5, CSS3, JavaScript, Dojo, AngularJS, ReactJS, jQuery, and Bootstrap for providing user interface and communication between the client and server.
+-	Extensive work experience in all phases of Software Development Life Cycle (SDLC) including Requirement Analysis, Design, Coding, Testing and Implementation in Agile (Scrum), TDD Environment.
+-	Thorough knowledge in using UML, XML parsers (SAX, DOM), SOAP, HTML and DHTML.
+-	Experience in JAVA/J2EE Design Patterns like Singleton, Factory, Abstract Factory, DAO, Business Delegate, and Session Façade.
+-	Experience with Performance Tuning for Oracle RDBMS using Explain Plan and HINTS. Extensive experience in data processing and interfacing skills using Oracle (SQL, PL/SQL, Stored procedures)
+-	Experience with Version Control tools like GIT, GitHub, CVS, SVN and build tools like MAVEN and Gradle with Integrated Development Environments like Eclipse and IntelliJ and STS.
+-	Extensive experience in developing Selenium and JUnit Test Scripts using Java in Eclipse IDE.
+-	Experience in Continuous Integration tools such Jenkins and Bamboo. Worked on Microservices for Continuous Delivery environment using Docker and Jenkins.
+-	Experience developing and integrating with microservices, webapps, RESTful API's
+-	Proficient in using Amazon Web Services (AWS). Extensive experience in focusing on services like EC2, AWS Lambda, VPC, Cloud Watch, Cloud Front, IAM, S3, Amazon RDS, Elastic Cache, SNS, SQS.
+-	Good understanding of Redux concepts such as State Store, Action Creator, Reducer and Container.
+-	Proficient in using Kubernetes for Horizontal scaling and load balancing of applications.
 
-EDUCATION
-•	Bachelor of Computer Science from Institute of Aeronautical Engineering, India
-•	Master of Computer Science from Wichita State University
+## EDUCATION
+-	Bachelor of Electronics and communication engineering in Amrita University
+-	Master of Computer Science from University of Dayton
  
-TECHNICAL SKILLS
-Java Technologies: Java, Spring, Hibernate, Web Services, SOA, SOAP, Axis, Spark, EJB, JSF, My Faces, Struts, Servlets, JSP, JSTL, JMS, JNDI, Applets, JNI, RMI, Spring batch, CXF, Salto DB, JMX
-XML Technologies: XML Parsers, SAX, DOM, Pull), XSL, XSLT, JIBX, JABX, SOA
-UI Technologies: Java Script, HTML, CSS, Java AWT, Java Swing, AJAX Frameworks GWT, Angular8, DXP (Digital Experience Platform) DWR, DOJO, Version Control AccuRev, CVS, SVN, VSS, Angular 4, React JS, Node JS
-IDE & Tools: Eclipse, IntelliJ IDEA, Maven, Ant, Log4j, XDoclet, TOAD, JBuilder, WSAD, UML, Quality Center, selenium, cucumber, BDD
-Test Frameworks: JMock, JUnit, HTTP Unit, DB Unit
-Application Servers: BEA Web logic, WebSphere, Apache Tomcat, JBoss, JRUN
-RDBMS/Tools: JDBC, Oracle, DB2, MySQL, PostgreSQL, Server, JTDS
-Operating System: Windows, LINUX/UNIX, Mac OS
-PROFESSIONAL EXPERIENCE
+## TECHNICAL SKILLS
+- Java Technologies: Java, Spring, Hibernate, Web Services, SOA, SOAP, Axis, Spark, EJB, JSF, My Faces, Struts, Servlets, JSP, JSTL, JMS, JNDI, Applets, JNI, RMI, Spring batch, CXF, Salto DB, JMX
+- XML Technologies: XML Parsers, SAX, DOM, Pull), XSL, XSLT, JIBX, JABX, SOA
+- UI Technologies: Java Script, HTML, CSS, Java AWT, Java Swing, AJAX Frameworks GWT, Angular8, DXP (Digital Experience Platform) DWR, DOJO, Version Control AccuRev, CVS, SVN, VSS, Angular 4, React JS, Node JS
+- IDE & Tools: Eclipse, IntelliJ IDEA, Maven, Ant, Log4j, XDoclet, TOAD, JBuilder, WSAD, UML, Quality Center, selenium, cucumber, BDD
+- Test Frameworks: JMock, JUnit, HTTP Unit, DB Unit
+- Application Servers: BEA Web logic, WebSphere, Apache Tomcat, JBoss, JRUN
+- RDBMS/Tools: JDBC, Oracle, DB2, MySQL, PostgreSQL, Server, JTDS
+- Operating System: Windows, LINUX/UNIX, Mac OS
+
+## PROFESSIONAL EXPERIENCE
 Client: US COMPANY(SEP 2022 - Present)
 Role: Java Full Stack Developer
 Description: BankUnited is a regional bank. It offers a broad range of online services, treasury management tools for businesses and traditional depository and lending products. I design, develop, test, and maintain Java-based software applications, including web and mobile applications.
